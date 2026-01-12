@@ -19,4 +19,4 @@ This project is an AI-based snake game controlled using only the index finger th
 ## ▶ How to Run
 ```bash
 pip install opencv-python mediapipe numpy
-python hand_snake_finger.py
+python hand_snake_game.py
